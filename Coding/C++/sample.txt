@@ -1,0 +1,5 @@
+hello.cpp : Simple Hello World program
+prog1.cpp : A program to print number in various formats (decimal, octal, hex etc.)
+prog2.cpp : A program to accept decimal number and print in decimal, octal and hex format
+prog3.cpp : A program to demonstrate the string class
+prog5.cpp : A program to read and write files. Copying README file to sample.txt

@@ -1,0 +1,23 @@
+C++ Programming Practice
+*****************************************************************************************************
+###General Programs
+hello.cpp 	: Simple Hello World program
+prog1.cpp 	: A program to print number in various formats (decimal, octal, hex etc.)
+prog2.cpp 	: A program to accept decimal number and print in decimal, octal and hex format
+prog3.cpp 	: A program to demonstrate the string class
+prog4.cpp 	: A program to read and write files. Copying README file to sample.txt
+prog5.cpp 	: A program to read sample.txt and store it in a string object and print it completely
+prog6.cpp 	: A simple program to demonstrate vector. Reading sample.txt into a vector and printing it
+prog7.cpp 	: A simple program to demonstrate vector. Reading sample.txt into a vector and printing it
+*****************************************************************************************************
+C in C++
+prog8.cpp 	: A simple program to print size of various data types, specifiers and pointers (both 32 bit and 64 bit)
+prog9.cpp 	: A simple program to print address of variable and function
+prog10.cpp 	: A program to demonstrate pass by value and pass by reference
+prog11.cpp	: A simple program to demonstrate void pointer and type casting
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************
